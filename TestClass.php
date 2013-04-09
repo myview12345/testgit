@@ -12,6 +12,10 @@
  */
 class TestClass {
     //put your code here
+    
+    public function testMethod(){
+        echo "test";
+    }
 }
 
 ?>
